@@ -91,11 +91,11 @@
                         </li><!--.dropdown-->
 
                          <li class="dropdown">
-                            <a href="#" class="dropdown-toggle " data-toggle="dropdown">Contact Us <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">Tomang</a></li>
+                            <a href="contact-tomang.php" class="dropdown-toggle " data-toggle="dropdown">Contact Us </a>
+                            <!-- <ul class="dropdown-menu" role="menu">
+                                <li><a href="contact-tomang.php">Tomang</a></li>
                                 <li><a href="#">Tanjung Duren</a></li>
-                            </ul>
+                            </ul> -->
                         </li><!--.dropdown-->
 
                     </ul><!--navbar-right for navbar-left replace class with navbar-left-->
