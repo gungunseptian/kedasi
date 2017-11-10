@@ -91,7 +91,7 @@
                         </li><!--.dropdown-->
 
                          <li class="dropdown">
-                            <a href="contact-tomang.php" class="dropdown-toggle " data-toggle="dropdown">Contact Us </a>
+                            <a href="contact-tomang.php">Contact Us </a>
                             <!-- <ul class="dropdown-menu" role="menu">
                                 <li><a href="contact-tomang.php">Tomang</a></li>
                                 <li><a href="#">Tanjung Duren</a></li>
